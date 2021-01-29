@@ -7,3 +7,5 @@ Refreshing the basics of data structures and complexity from algo expert. Need o
 Concepts of memory allocation, learned a couple of new concept was a good choice learning this concept. DS is taking longer than expected as well as I was pretty busy.
 ## Day 3 - 28/01/2021
 Working on time and space complexity, and Logs I belive DS will take this week, I will try to finish it asap then start working on Algorithms. 
+## Day 4 - 29/01/2021
+Finally started Data structure core topics, today I finished arrays both static and dynamic , representation of arrays in memory and basic of different operations. 
