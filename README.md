@@ -10,4 +10,6 @@ Working on time and space complexity, and Logs I belive DS will take this week, 
 ## Day 4 - 29/01/2021
 Finally started Data structure core topics, today I finished arrays both static and dynamic , representation of arrays in memory and basic of different operations. 
 ## Day 5 - 30/01/2021
-Today I completed Linked list, hash tables and all of their common operations and will try to start stacks. I also have to make pages for website. I am officially running late!
+Today I completed Linked list, hash tables and all of their common operations and will try to start stacks. I also have to make pages for my website. I am officially running late!
+## Day 6 - 31/01/2021
+Stacks are now completed working on string ,graphs and tree. I am weak in these topic so I will be spending little bit more time understanding them. Tommorow will be last day of this data structure crash course. Then I will start OOP in python.
