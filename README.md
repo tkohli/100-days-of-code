@@ -5,7 +5,7 @@ This repo will also contain details about me learning cybersecurity as well.
 For this week I will just make sure that my concepts are clear and explore stuff. I already have basic knowledge so I recommend you guys spending more time on basics.
 I watched videos from algoexpert Data Structures Crash course and then refresh basics of python.<br>Note - I actually never thought that I will be able to complete even a single week of the #100DaysofCode it feels good, many weeks to go.
 # Week 1 Getting our hand's dirty - ongoing...
-<br>
+
 # Daily updates<br>
 ## Day 1 - 26/01/2021 Tuesday
 Refreshing the basics of data structures and complexity from algo expert. Need one more day to complete basics of DS. then will move on to exploring OOP using python.
