@@ -23,3 +23,5 @@ Stacks are now completed working on string ,graphs and tree. I am weak in these 
 I have completed basics of Data structures and today I will do a quick python refresher just covering very basics of python. Leaving OOP part of python will do it tommorow.
 ## Day 8 - 02/02/2021 Tuesday
 Today I started Object Oriented Programming in Python, I have never studied this topic and it is very interesting to learn this concept in python, I also completed Inheritance and overloading.
+## Day 9 - 03/02/2021 Wednesday
+Almost lost today but somehow managed to work, today I did overriding the built in funtions and knowing how the internal funtions like  __gt__, __len__, __eq__  works. they are pretty much fun to learn.  
