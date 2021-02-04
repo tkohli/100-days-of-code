@@ -25,3 +25,5 @@ I have completed basics of Data structures and today I will do a quick python re
 Today I started Object Oriented Programming in Python, I have never studied this topic and it is very interesting to learn this concept in python, I also completed Inheritance and overloading.
 ## Day 9 - 03/02/2021 Wednesday
 Almost lost today but somehow managed to work, today I did overriding the built in funtions and knowing how the internal funtions like  __gt__, __len__, __eq__  works. they are pretty much fun to learn.  
+## Day 10 - 04/02/2021 Thursday
+Still doing Object oriented programming, today I did static and class methods and will work on website development alot of work is left need to finish it asap. I also need to study Azure I have an exam on 7th hope I clear it this time.
