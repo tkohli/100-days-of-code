@@ -29,3 +29,5 @@ Almost lost today but somehow managed to work, today I did overriding the built 
 Still doing Object oriented programming, today I did static and class methods and will work on website development alot of work is left need to finish it asap. I also need to study Azure I have an exam on 7th hope I clear it this time.
 ## Day 11 - 05/02/2021 Friday
 I need to finish the website project by tuesday so I will work on that for a couple of days. I have to code there as well so 100DaysofCode should still be going. Will keep you all posted. See you tommorow.
+## Day 12 - 06/02/2021 Saturday
+Tommorow I am having Azure AZ900 exam so today I am perepariing for that. Will finish OOPS this week and start questions from tuesday. Till than will finish website project
