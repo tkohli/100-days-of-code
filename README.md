@@ -4,7 +4,9 @@ This repo will also contain details about me learning cybersecurity as well.
 # Week 0 Because that's how coder's count.
 For this week I will just make sure that my concepts are clear and explore stuff. I already have basic knowledge so I recommend you guys spending more time on basics.
 I watched videos from algoexpert Data Structures Crash course and then refresh basics of python.<br>Note - I actually never thought that I will be able to complete even a single week of the #100DaysofCode it feels good, many weeks to go.
-# Week 1 Getting our hand's dirty - ongoing...
+# Week 1 Important concepts - OOPs in Python.
+We should focus more on learning how this code is working and writing clean code following the writing conventions helps in becoming a better programmer. I always felt uncomfortable working whenever I have to use Classes in python, as I was used to classes in Java and c++ this time I focused on learning more concepts and it helped me alot. Next week I will be starting questions on different topics.
+# Week 2 Getting our hand's dirty - ongoing...
 
 # Daily updates<br>
 ## Day 1 - 26/01/2021 Tuesday
@@ -33,3 +35,5 @@ I need to finish the website project by tuesday so I will work on that for a cou
 Tommorow I am having Azure AZ900 exam so today I am perepariing for that. Will finish OOPS this week and start questions from tuesday. Till than will finish website project
 ## Day 13 - 07/02/2021 Sunday
 Alright no discussion over AZ900 exam. Today I have completed OOPS part in Python I am ready for programming questions now will start them from Tuesday as a new week.
+## Day 14 - 08/02/2021 Monday
+Week 2 just ended I have completed OOPs in Python next up will be solving programming questions. 
