@@ -37,3 +37,5 @@ Tommorow I am having Azure AZ900 exam so today I am perepariing for that. Will f
 Alright no discussion over AZ900 exam. Today I have completed OOPS part in Python I am ready for programming questions now will start them from Tuesday as a new week.
 ## Day 14 - 08/02/2021 Monday
 Week 2 just ended I have completed OOPs in Python next up will be solving programming questions. 
+## Day 15 - 09/02/2021 Tuesday
+Need to finish the webite So I am dedicating this week to project. And study from Coursera
