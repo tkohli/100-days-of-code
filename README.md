@@ -39,5 +39,9 @@ Alright no discussion over AZ900 exam. Today I have completed OOPS part in Pytho
 Week 2 just ended I have completed OOPs in Python next up will be solving programming questions. 
 ## Day 15 - 09/02/2021 Tuesday
 Need to finish the webite So I am dedicating this week to project. And study from Coursera
-## Day 9 - 03/02/2021 Wednesday
-Starting Google IT Automation with Python
+## Day 16 - 10/02/2021 Wednesday
+Starting Google IT Automation with Python, this course contains 6 courses and has python, git, cloud topics in it will be finishing this in this week.  
+## Day 17 - 11/02/2021 Thursday
+Cont. Google IT Automation with Python
+## Day 18 - 12/02/2021 Friday
+Cont. Google IT Automation with Python
