@@ -45,3 +45,5 @@ Starting Google IT Automation with Python, this course contains 6 courses and ha
 Cont. Google IT Automation with Python
 ## Day 18 - 12/02/2021 Friday
 Cont. Google IT Automation with Python
+## Day 19 - 13/02/2021 Saturday
+Cont. Google IT Automation with Python
