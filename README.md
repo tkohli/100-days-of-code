@@ -51,3 +51,9 @@ Cont. Google IT Automation with Python
 Cont. Google IT Automation with Python
 ## Day 21 - 15/02/2021 Monday
 Cont. Google IT Automation with Python
+## Day 22 - 16/02/2021 Tuesday
+Cont. Google IT Automation with Python
+## Day 23 - 17/02/2021 Wednesday
+Cont. Google IT Automation with Python
+## Day 24 - 18/02/2021 Thursday
+Cont. Google IT Automation with Python
