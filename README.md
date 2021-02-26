@@ -61,3 +61,29 @@ Cont. Google IT Automation with Python
 Cont. Google IT Automation with Python
 ## Day 25 - 19/02/2021 Friday
 Cont. Google IT Automation with Python
+
+## Day 26 - 20/02/2021 Saturday
+Cont. Google IT Automation with Python
+## Day 27 - 21/02/2021 Sunday
+Cont. Google IT Automation with Python
+## Day 28 - 22/02/2021 Monday
+Cont. Google IT Automation with Python
+## Day 29 - 23/02/2021 Tuesday
+Cont. Google IT Automation with Python
+## Day 30 - 24/02/2021 Wednesday
+Cont. Google IT Automation with Python
+## Day 31 - 25/02/2021 Thursday
+Cont. Google IT Automation with Python
+## Day 32 - 26/02/2021 Friday
+Cont. Google IT Automation with Python
+## Day 33 - 27/02/2021 Saturday (Future commit)
+Completed Google IT Automation with Python
+## Day 34 - 28/02/2021 Sunday (Future commit)
+## Day 35 - 01/03/2021 Monday (Future commit)
+## Day 36 - 02/03/2021 Tuesday (Future commit)
+## Day 37 - 03/03/2021 Wednesday (Future commit)
+## Day 38 - 04/03/2021 Thursday (Future commit)
+## Day 39 - 05/03/2021 Friday (Future commit)
+## Day 40 - 06/03/2021 Saturday (Future commit)
+## Day 41 - 07/03/2021 Sunday (Future commit)
+## Day 42 - 08/03/2021 Monday (Future commit)
