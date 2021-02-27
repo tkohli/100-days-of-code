@@ -76,7 +76,7 @@ Cont. Google IT Automation with Python
 Cont. Google IT Automation with Python
 ## Day 32 - 26/02/2021 Friday
 Cont. Google IT Automation with Python
-## Day 33 - 27/02/2021 Saturday (Future commit)
+## Day 33 - 27/02/2021 Saturday
 Completed Google IT Automation with Python
 ## Day 34 - 28/02/2021 Sunday (Future commit)
 ## Day 35 - 01/03/2021 Monday (Future commit)
