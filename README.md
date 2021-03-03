@@ -82,8 +82,8 @@ Completed Google IT Automation with Python
 A day off
 ## Day 35 - 01/03/2021 Monday
 Started algoexpert today
-## Day 36 - 02/03/2021 Tuesday (Future commit)
-## Day 37 - 03/03/2021 Wednesday (Future commit)
+## Day 36 - 02/03/2021 Tuesday 
+## Day 37 - 03/03/2021 Wednesday
 ## Day 38 - 04/03/2021 Thursday (Future commit)
 ## Day 39 - 05/03/2021 Friday (Future commit)
 ## Day 40 - 06/03/2021 Saturday (Future commit)
