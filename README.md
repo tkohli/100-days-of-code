@@ -84,7 +84,7 @@ A day off
 Started algoexpert today
 ## Day 36 - 02/03/2021 Tuesday 
 ## Day 37 - 03/03/2021 Wednesday
-## Day 38 - 04/03/2021 Thursday (Future commit)
+## Day 38 - 04/03/2021 Thursday 
 ## Day 39 - 05/03/2021 Friday (Future commit)
 ## Day 40 - 06/03/2021 Saturday (Future commit)
 ## Day 41 - 07/03/2021 Sunday (Future commit)
