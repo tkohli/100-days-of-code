@@ -7,7 +7,7 @@ I watched videos from algoexpert Data Structures Crash course and then refresh b
 # Week 1 Important concepts - OOPs in Python.
 We should focus more on learning how this code is working and writing clean code following the writing conventions helps in becoming a better programmer. I always felt uncomfortable working whenever I have to use Classes in python, as I was used to classes in Java and c++ this time I focused on learning more concepts and it helped me alot. Next week I will be starting questions on different topics.
 # Week 2 Getting our hand's dirty - 
-This week I got really busy had some personal work, now I am doing Google IT Automation with Python it has 6 course Attaching link below. It is actually a must try course.<a href-"https://www.coursera.org/professional-certificates/google-it-automation?utm_source=gg&utm_medium=sem&utm_campaign=11-GoogleITwithPython-IN&utm_content=11-GoogleITwithPython-IN&campaignid=11168713121&adgroupid=109720736099&device=c&keyword=google%20python%20training&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=466627326888&hide_mobile_promo&gclid=Cj0KCQiAvbiBBhD-ARIsAGM48byo4T_Pm76AtkxKIobESsCwQah9vgRH4x9GDQzq4QaWrcaaoNmBGtcaAnxyEALw_wcB"> Link to course</a>
+This week I got really busy had some personal work, now I am doing Google IT Automation with Python it has 6 course Attaching link below. It is actually a must try course.
 # Week 7 Algorithms here I come, P.S. I am running late
 So I was unable to commit weekly for past some time but I did alot of new things I got azure certificate, Google IT automation, made on OCR converter in python and also made an attendence tracker in AWS cloud.<br>
 It was a very fun time now I will be focusing on programming and make some more projects using python. 
