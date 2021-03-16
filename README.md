@@ -8,7 +8,9 @@ I watched videos from algoexpert Data Structures Crash course and then refresh b
 We should focus more on learning how this code is working and writing clean code following the writing conventions helps in becoming a better programmer. I always felt uncomfortable working whenever I have to use Classes in python, as I was used to classes in Java and c++ this time I focused on learning more concepts and it helped me alot. Next week I will be starting questions on different topics.
 # Week 2 Getting our hand's dirty - 
 This week I got really busy had some personal work, now I am doing Google IT Automation with Python it has 6 course Attaching link below. It is actually a must try course.<a href-"https://www.coursera.org/professional-certificates/google-it-automation?utm_source=gg&utm_medium=sem&utm_campaign=11-GoogleITwithPython-IN&utm_content=11-GoogleITwithPython-IN&campaignid=11168713121&adgroupid=109720736099&device=c&keyword=google%20python%20training&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=466627326888&hide_mobile_promo&gclid=Cj0KCQiAvbiBBhD-ARIsAGM48byo4T_Pm76AtkxKIobESsCwQah9vgRH4x9GDQzq4QaWrcaaoNmBGtcaAnxyEALw_wcB"> Link to course</a>
-# Week 3 Algorithms here I come, P.S. I am running late<br>
+# Week 7 Algorithms here I come, P.S. I am running late
+So I was unable to commit weekly for past some time but I did alot of new things I got azure certificate, Google IT automation, made on OCR converter in python and also made an attendence tracker in AWS cloud.<br>
+It was a very fun time now I will be focusing on programming and make some more projects using python. 
 
 # Daily updates<br>
 ## Day 1 - 26/01/2021 Tuesday
@@ -82,10 +84,7 @@ Completed Google IT Automation with Python
 A day off
 ## Day 35 - 01/03/2021 Monday
 Started algoexpert today
-## Day 36 - 02/03/2021 Tuesday 
-## Day 37 - 03/03/2021 Wednesday
-## Day 38 - 04/03/2021 Thursday 
-## Day 39 - 05/03/2021 Friday (Future commit)
-## Day 40 - 06/03/2021 Saturday (Future commit)
-## Day 41 - 07/03/2021 Sunday (Future commit)
-## Day 42 - 08/03/2021 Monday (Future commit)
+## Day 36 - 02/03/2021 Tuesday - Day 49 - 15/03/2021 Monday
+I went on some trips but still coded something or other so I am actually counting these days they are missing some of commits hope to maintain the streak.
+## Day 50 - 16/03/2021 Tuesday
+Today I will be doing Algoexpert questions and learn opencv in python
