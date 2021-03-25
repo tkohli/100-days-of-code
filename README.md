@@ -88,3 +88,5 @@ Started algoexpert today
 I went on some trips but still coded something or other so I am actually counting these days they are missing some of commits hope to maintain the streak.
 ## Day 50 - 16/03/2021 Tuesday
 Today I will be doing Algoexpert questions and learn opencv in python.
+## Day 59 - 25/03/2021 Thusday
+Sick leave
