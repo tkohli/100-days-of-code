@@ -89,4 +89,4 @@ I went on some trips but still coded something or other so I am actually countin
 ## Day 50 - 16/03/2021 Tuesday
 Today I will be doing Algoexpert questions and learn opencv in python.
 ## Day 59 - 25/03/2021 Thusday
-Sick leave
+Sick leave.
