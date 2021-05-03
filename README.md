@@ -90,3 +90,4 @@ I went on some trips but still coded something or other so I am actually countin
 Today I will be doing Algoexpert questions and learn opencv in python.
 ## Day 59 - 25/03/2021 Thusday
 Sick leave.
+I would start another 100 days of code as this is about to be completed i missed some commits but will make sure that this won't happen nect time.
